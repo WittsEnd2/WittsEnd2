@@ -1,7 +1,5 @@
 ### Hi there, I'm WittsEnd2 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ragnarsecurity?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWitsEnd2&screen_name=ragnarsecurity)
-
 ## I'm into everything Embbedded Systems and Cyber Security
 
 - 💭 Always working on something related to embedded systems or cyber security. 
@@ -9,6 +7,9 @@
 - 👯 Created a cyber security blog called RagnarSecurity: [Go see my blog](https://medium.com/@ragnarsecurity). 
 - 🥅 2022 Goals: Learn as much about baremetal firmware development and the Linux Kernel as possible
 - ⚡ Fun fact: I am obsessed with ⚾ and 🏋️
+
+Follow RagnarSecurity and I on Twitter:
+[![Twitter Follow](https://img.shields.io/twitter/follow/ragnarsecurity?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FWitsEnd2&screen_name=ragnarsecurity)
 
 ### 🚨 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
