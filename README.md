@@ -20,4 +20,4 @@ Follow RagnarSecurity and I on Twitter:<br>
 - [Reverse Engineering Bare Metal Low-Level kernel images with QEMU:  Getting Started](https://medium.com/codex/reverse-engineering-bare-metal-low-level-kernel-images-with-qemu-getting-started-c705b7b14d35?source=rss-ba9e8c03464e------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WittsEnd2&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WittsEnd2&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
