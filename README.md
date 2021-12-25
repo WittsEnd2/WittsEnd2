@@ -9,6 +9,7 @@
 -->
 ## I'm into everything Embbedded Systems and Cyber Security
 
+- 💭 Always working on something related to embedded systems or cyber security. 
 - 💻 I play in many CTF Competitions (and create challenges for some too). 
 - 👯 Often, I am writing about my expeirences and creating content: [Go see my blog](https://medium.com/@ragnarsecurity). 
 - 🥅 2022 Goals: Learn as much about baremetal firmware development and the Linux Kernel as possible
