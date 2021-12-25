@@ -9,8 +9,7 @@
 -->
 ## I'm into everything Embbedded Systems and Cyber Security
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 💻 I play in many CTF Competitions (and create challenges for some too). 
-- 👯 Often, I am writing about my expeirences and creating content: [Go see my blog](https://medium.com/ragnarsecurity). 
+- 👯 Often, I am writing about my expeirences and creating content: [Go see my blog](https://medium.com/@ragnarsecurity). 
 - 🥅 2022 Goals: Learn as much about baremetal firmware development and the Linux Kernel as possible
 - ⚡ Fun fact: I love obsessed with Baseball and working out
