@@ -14,3 +14,7 @@
 - 👯 Often, I am writing about my expeirences and creating content: [Go see my blog](https://medium.com/@ragnarsecurity). 
 - 🥅 2022 Goals: Learn as much about baremetal firmware development and the Linux Kernel as possible
 - ⚡ Fun fact: I love obsessed with Baseball and working out
+
+### 🚨 Recent Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
