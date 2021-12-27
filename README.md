@@ -13,7 +13,7 @@ Follow RagnarSecurity and I on Twitter:<br>
 
 ### 🚨 Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Baremetal Firmware on Raspberry Pi for Cyber Security CTFS— Setup](https://ragnarsecurity.medium.com/writing-baremetal-firmware-on-raspberry-pi-for-cyber-security-ctfs-setup-fbf92c422a8e?source=rss-ba9e8c03464e------2)
+- [Writing Baremetal Firmware on Raspberry Pi for Cyber Security CTFS— Setup](https://medium.com/geekculture/writing-baremetal-firmware-on-raspberry-pi-for-cyber-security-ctfs-setup-fbf92c422a8e?source=rss-ba9e8c03464e------2)
 - [Understanding The Linux Kernel Through CTF Challenges: Seccomp](https://medium.com/codex/understanding-the-linux-kernel-through-ctf-challenges-seccomp-be6ed553a97?source=rss-ba9e8c03464e------2)
 - [Reverse Engineering Bare-Metal Firmware — Part 3 | Analyzing ARM Assembly and Exploiting](https://medium.com/geekculture/reverse-engineering-bare-metal-firmware-part-3-analyzing-arm-assembly-and-exploiting-3b2dbe219f19?source=rss-ba9e8c03464e------2)
 - [Reverse Engineering Bare Metal Kernel Images — Part 2](https://ragnarsecurity.medium.com/reverse-engineering-bare-metal-kernel-images-part-2-6a52a4afa3ef?source=rss-ba9e8c03464e------2)
